@@ -1,5 +1,5 @@
 # Huffam Coding
-### Author: Sean Cavalieri
+### Author: Sean Cavalieri @2019 Spring
 
 ## Usage:
 1. Run the main method in Compress.java to begin.
